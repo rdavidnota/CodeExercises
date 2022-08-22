@@ -15,7 +15,7 @@ using System;
 class Result
 {
 
-    public static validation(int quantityElements)
+    public static void validation(int quantityElements)
     {
         if (quantityElements <= 0)
         {
